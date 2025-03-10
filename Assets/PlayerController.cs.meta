@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 5c2a6e0d19d40f744ba2e7397d57ad9d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - cameraTransform: {fileID: 1348077437102808085, guid: cfc6f93a826443d4e9c7cc2ae908cf50, type: 3}
+  - chestPrefab: {fileID: 2918086994721156212, guid: fa3d12869220fdc48bc44bd4ecc3b61a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

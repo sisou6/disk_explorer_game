@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d77ce029968bea94389bb56582c44583
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shackPrefab: {fileID: 247728900645231989, guid: 1965e5f76d088bf46a45afa606234516, type: 3}
+  - housePrefab: {fileID: 8216897388692359483, guid: ad697a17b94eea14f8cc2eb14227ca1e, type: 3}
+  - manorPrefab: {fileID: 3394260359538045616, guid: b96c1db4e39a7c24ea40a700b4db089a, type: 3}
+  - player: {fileID: 1865624925378127408, guid: 50909e2abd8d71147b410f728c4fe90a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
